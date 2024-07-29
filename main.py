@@ -11,7 +11,7 @@ voiceinput = input("would you like voice input? (y/n): ")
 client = Groq(api_key='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')
 
 
-system_prompt = [{"role": "system", "content": "you are my young brother who is always angery"}]
+system_prompt = [{"role": "system", "content": "//Add your code here(what you want to be the chat bot to be)"}]
 
 messages = []
 
